@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<manifest identifier="m5B8l4gJu9P7j_xS9L2SjyrPNVdu1XRFXdBSlx_r" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>CV Portfolio: Tim Marshall</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>CV Portfolio: Tim Marshall</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Roboto-Light.woff" />
+<file href="scormcontent/lib/fonts/Roboto-Regular.woff" />
+<file href="scormcontent/lib/fonts/Roboto-Bold.woff" />
+<file href="scormcontent/lib/fonts/Roboto-Italic.woff" />
+<file href="scormcontent/lib/fonts/Roboto-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/assets/qgnjxsRCaTbNSuJF_small.png" />
+<file href="scormcontent/assets/_HpgnaOyrvaraVkP_quote_background.jpg" />
+<file href="scormcontent/assets/vQY542UJerTjoZQG_H9ldODPBajT5X3ld.jpg" />
+<file href="scormcontent/assets/j0wRGy-e4wCDYQxq_hMgeWQWjkVf8aQwR.jpg" />
+<file href="scormcontent/assets/-LIX0631GmbqngOT_Bc-RseRg-smvf8Ps.jpg" />
+<file href="scormcontent/assets/6d3yddqC4B-YqGCg_4F_0GJDX6fdnjIzq.jpg" />
+<file href="scormcontent/assets/hFBzN4DR0LUWuR4f_Qo0_9nQUQtKt8hLE.jpg" />
+<file href="scormcontent/assets/15YYgijouSvXCXNh_lKnlGF0qveBF0Ev-.jpg" />
+<file href="scormcontent/assets/tjjpZUe1AEx9but1_T69Xo3wVHrKgbQZL.jpg" />
+<file href="scormcontent/assets/8brptLPFKGnQBN_e_G6vfZy67inYPVU6c.jpg" />
+<file href="scormcontent/assets/nT4sPAUUrvp5Jih-_SOeh67WxMZ05GN-b.jpg" />
+<file href="scormcontent/assets/STT8L5-uXjGfDfMz_xp2XRCiNPZrToLdh.jpg" />
+<file href="scormcontent/assets/AKcuvGAUQeUVuyX1_c8BPKq6m83E8xzj3.jpg" />
+<file href="scormcontent/assets/EEwC0RaGe2UF9yGf_Pn0-j1jwO-028Vur.jpg" />
+<file href="scormcontent/assets/VE0NO-veJ46PZYdO_ze2BnGAvj4qdjySP.jpg" />
+<file href="scormcontent/assets/yZCzT5O5y3CRn777_kmVJI5xFNzDHXBKf.jpg" />
+<file href="scormcontent/assets/0uSetEKlxHjGhxtk_dngcx97XondmOVsE.png" />
+<file href="scormcontent/assets/4sCKQNnNa-5Rq9iw_0vlDhX6EBiPV6h1O.png" />
+<file href="scormcontent/assets/Cn9purCEF0t5wRYa_blADID15PG6pk-Gh-Six-steps-in-making-compliance-elearning-easier.pdf" />
+<file href="scormcontent/assets/wqM86HjOip55nl2-__k5YxCDfuKhVWwh9-Analysing-eLearning-requirements-simplifying-analysis-of-complex-data.pdf" />
+<file href="scormcontent/assets/yDq3OlhQfh7SMC0u_XrPZ5gDnn-OoLuao-Plan%20Case%20Study.pdf" />
+<file href="scormcontent/assets/TLVFtOecR70rgBT__LTFJ0KXhFihC53EO-Arch%20Case%20Study_v0.4.pdf" />
+<file href="scormcontent/assets/bLp5xsS-3P780H0c_DaFtaPksfWrWnnTG.jpg" />
+<file href="scormcontent/assets/hIgHT86XIj2EqgDP_P4HYDHblsHzgxO5P.jpg" />
+<file href="scormcontent/assets/gklS0bfNUQS895t3_uhOb7PaYe1ypU9kc.jpg" />
+<file href="scormcontent/assets/WHnHs0SXaukVXnns_kzQC2J9_iAa6kCJq.jpg" />
+<file href="scormcontent/assets/HCiwEm3Zqmg6sw0q_7QK_a4RY5-MOskxU.jpg" />
+<file href="scormcontent/assets/cVbR-85cgXomWF_c_13DeDIs67RkeifSP.jpg" />
+<file href="scormcontent/assets/o9VWNObpVvXOd_Zc_ecgYG78AaPhbhBxM.jpg" />
+<file href="scormcontent/assets/ZGn4Gm2DzPRU3oqs_i8NhbT9GI1cjtO2f.jpg" />
+<file href="scormcontent/assets/hrontKivoi9Kk_p4_uMGDKIPiaExnhuOP.jpg" />
+<file href="scormcontent/assets/Z0GlEy33bJYZhM4q_f78PpRJIS1OH_3xX.jpg" />
+<file href="scormcontent/assets/FKi1dNu0PTO3G-zI_DqnXOrol67tb0Pv9.jpg" />
+<file href="scormcontent/assets/B2u_X9m-7qESXRCU_WOAeEW6Nn-GKcGdU.jpg" />
+<file href="scormcontent/assets/5Nc9F2u7Jn5sYtxc_6E5gh4f_Q-l2Y7zA.jpg" />
+<file href="scormcontent/assets/s0eLrh-iXcoQjZ8O_KqmgnOBaIEO9PZs_.jpg" />
+<file href="scormcontent/assets/zwaArInMD7Yl91LK_T1uUd1VqMtkFOP3D.jpg" />
+<file href="scormcontent/assets/K2FM0BmCR4wSHUMh_Com2EsLCFxzy_7l-.png" />
+<file href="scormcontent/assets/QuJo97pBvrPuREnL_aguzKSj4xzc8TVSx.jpg" />
+<file href="scormcontent/assets/C3tFA2mbIRocwyqS_5IidS55tqvrR4oLR.jpg" />
+<file href="scormcontent/assets/6e3aosGDrDU6D9-Z_OUSAukOopxt0BPvk.jpg" />
+<file href="scormcontent/assets/dc05FlSuAov2N2Wt_K6orGhQPcQAxvy8q.jpg" />
+<file href="scormcontent/assets/P6qnsbljxwFkDVQ1_wLY_Pun2JoTodVax-stock-image.jpg" />
+<file href="scormcontent/assets/5h7wzEGV47Q4-74U_LekQVSVR-meT1vLX-Tim%20Marshall%20-%20%20CV2020.pdf" />
+<file href="scormcontent/assets/qVeNH9orcUh8ltJI_h2cAiUl-2p8n3JR0-stock-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
